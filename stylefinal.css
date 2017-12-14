@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body, html {
+	background-color: #F3F3F3
+
+}
+
+
+#main-container {
+    color: #27282C;
+    font-family: Playfair Display;
+    margin-left: 175px;
+    margin-right: 175px;
+    font-size: 22px;
+}
+
+#header {
+    font-family: "Anton";
+    text-align: center;
+    color: #7B0300;
+    font-size: 67px;
+    margin-bottom: 3px;
+    padding-top: 1px;
+	border: solid #7B0300;
+	border-width: 9px;
+	height: 104px;
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+#subtitle {
+	text-align: center;
+	color: #AF1A16;
+	font-family: Anton;
+	font-size: 35px;
+	margin-top: 15px;
+	margin-bottom: 3px;
+}
+
+
+
+#antoine {
+	height: 97%;
+	width: 97%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#intro {
+	float: left;
+}
+
+#poster {
+	height: 40%;
+	width: 40%;
+	float: left;
+	margin-right: 10px;
+}
+
+#paragraph3 {
+	float: center;
+	color: #27282C;
+    font-family: Playfair Display;
+    margin-left: 175px;
+    margin-right: auto;
+    font-size: 22px;
+
+}
+
+#trailer {
+	float:right;
+	margin-right: 15px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+
+}
+
+#links {
+	float: right;
+	font-family: Anton;
+	font-size:18px;
+	margin-right: 150px;
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
